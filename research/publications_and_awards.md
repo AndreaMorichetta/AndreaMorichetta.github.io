@@ -11,7 +11,7 @@ layout: default
 
 **2018** [Award] [Best Student Paper Award](https://itc30.org/en/best-paper-awards.html): [LENTA: Longitudinal Exploration for Network Traffic Analysis](https://iris.polito.it/handle/11583/2715459), in: 30th International Teletraffic Congress (ITC 30), Vienna, Austria.
 
-**2018** [Conference Paper] **Morichetta, Andrea**; Mellia, Marco, LENTA: Longitudinal Exploration for Network Traffic Analysis](https://iris.polito.it/handle/11583/2715459), in: 30th International Teletraffic Congress (ITC 30), Vienna, Austria, 2018
+**2018** [Conference Paper] **Morichetta, Andrea**; Mellia, Marco, [LENTA: Longitudinal Exploration for Network Traffic Analysis](https://iris.polito.it/handle/11583/2715459), in: 30th International Teletraffic Congress (ITC 30), Vienna, Austria, 2018
 
 **2017** [Conference Paper] Ciociola, Alessandro; Cocca, Michele; Giordano, Danilo; Mellia, Marco; **Morichetta, Andrea**; Putina, Andrian; Salutari, Flavia, [UMAP: Urban Mobility Analysis Platform to Harvest Car Sharing Data](https://iris.polito.it/handle/11583/2710807#.XRoyPC17EWo), in: Proceedings of the IEEE Conference on Smart City Innovations, 2017
 
