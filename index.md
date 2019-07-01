@@ -8,7 +8,9 @@ I am Andrea Morichetta.
 
 I am a researcher. Currently, I'm in my last year of Ph.D., in Politecnico di Torino. I believe in learning as well as in my infinite ignorance.
 I love thinking, and sometimes I over-do it. I like to write notes about my life and imagine stories.
+
 My current profession allowed me to travel regularly. I had, and I still have, the opportunity to visit new places, enjoying both having a glimpse with some of them and being intimate with (few) others.
+
 I like the sensations that new discoveries transmit, and I desire to get them in different aspects of my life.
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.
