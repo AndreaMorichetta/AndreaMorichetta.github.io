@@ -3,7 +3,9 @@ layout: default
 ---
 
 
-# Introduction
+# Personal page
+
+## Introduction
 I am Andrea Morichetta.
 
 I am a researcher. Currently, I'm in my last year of Ph.D., in Politecnico di Torino. I believe in learning as well as in my infinite ignorance.
@@ -12,6 +14,10 @@ I love thinking, and sometimes I over-do it. I like to write notes about my life
 My current profession allowed me to travel regularly. I had, and I still have, the opportunity to visit new places, enjoying both having a glimpse with some of them and being intimate with (few) others.
 
 I like the sensations that new discoveries transmit, and I desire to get them in different aspects of my life.
+
+## Research
+I'm a Ph.D. student in the [Telecommunication Network Group](https://www.telematica.polito.it) of Politecnico di Torino. I joined the group in March 2016 with a scholarship, and later that year, started my doctorate. I work under the supervision of [Prof. Marco Mellia](https://www.telematica.polito.it/member/marco-mellia/), with a grant fully funded by the [Big-DAMA project](https://bigdama.ait.ac.at). My research focus is on data analysis and machine learning, with particular attention on unsupervised methodologies, applied to networks, with an accent on security and network traffic characterization.
+
 
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
