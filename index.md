@@ -9,7 +9,7 @@ layout: default
 I am Andrea Morichetta.
 
 I am a researcher. Currently, I'm in my last year of Ph.D., in Politecnico di Torino.
-
+I love my bab.
 I believe in learning as well as in my infinite ignorance.
 I love thinking, and sometimes I over-do it. I like to write notes about my life and imagine stories.
 
